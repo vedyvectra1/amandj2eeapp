@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ear" name="JEEAmand">
+    <output-path>$PROJECT_DIR$/classes/artifacts/JEEAmand</output-path>
+    <root id="root" />
+  </artifact>
+</component>
